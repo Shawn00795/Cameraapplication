@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Nanny</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="filter_jobs">
+        <item>Confirmed</item>
+        <item>Rejected</item>
+        <item>Pending</item>
+        <item>Invite</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="err_went_wrong">Something went wrong, Please try Again!</string>
+    <string name="toast_time_out">Connection Timeout, Please Try Again</string>
+    <string name="toast_network_error">Network Error, Please Check Your Network Connection</string>
+    <string name="lbl_retry">Retry</string>
+    <string name="empty" />
+    <string name="lbl_search">Search</string>
+    <string name="lbl_location">Location</string>
+    <string name="lbl_menu_home">Home</string>
+    <string name="lbl_lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="lbl_forgot_password">Forgot Password</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_welcome_to">Welcome</string>
+    <string name="lbl_user_name">USERNAME OR EMAIL</string>
+    <string name="lbl_enter_password">PASSWORD</string>
+    <string name="lbl_new_here">New here?</string>
+    <string name="lbl_signup">Sign Up</string>
+    <string name="lbl_enter_name">Name</string>
+    <string name="lbl_login_as">LOGIN AS</string>
+    <string name="lbl_sign_in">SIGN IN</string>
+    <string name="lbl_client">CLIENT</string>
+    <string name="lbl_or">OR</string>
+    <string name="lbl_nanny">NANNY</string>
+    <string name="lbl_dont_have_account">Don\'t have an account?</string>
+    <string name="lbl_swipe_left_to">Swipe left to</string>
+    <string name="lbl_sign_up">signup</string>
+    <string name="lbl_sign_up_as">SIGNUP AS</string>
+    <string name="lbl_name">NAME</string>
+    <string name="lbl_email">Email Address</string>
+    <string name="lbl_gender">GENDER</string>
+    <string name="lbl_age">AGE</string>
+    <string name="lbl_already_have_account">Already have an acoount?</string>
+    <string name="lbl_swipe_right_to">Swipe right to</string>
+    <string name="error_enter_email">Please Enter Email</string>
+    <string name="error_enter_phone_number">Please Enter Phone Number</string>
+    <string name="error_enter_password">Please Enter Password</string>
+    <string name="dialog_login">Logging in, please wait..</string>
+    <string name="dialog_sign_up">Sign up, please wait..</string>
+    <string name="error_enter_name">Please Enter Name</string>
+    <string name="error_enter_gender">Please Enter Gender</string>
+    <string name="error_enter_age">Please Enter Age</string>
+    <string name="lbl_create_job">Create Job</string>
+    <string name="lbl_my_jobs">My Jobs</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="lbl_payment">Payment</string>
+    <string name="lbl_settings">Settings</string>
+    <string name="lbl_logout">Logout</string>
+    <string name="lbl_job_title">Job Title (required)</string>
+    <string name="lbl_job_desc">Job Description</string>
+    <string name="lbl_set_your_rate">Set Your Rates</string>
+    <string name="lbl_set_date">Set Date</string>
+    <string name="label_loading">Loading, Please wait!</string>
+    <string name="lbl_suggested_nannies">Suggested Nannies</string>
+    <string name="lbl_applied_nanny">Applied Nannies</string>
+    <string name="lbl_job_detail">Job Detail</string>
+    <string name="lbl_submit">SUBMIT</string>
+    <string name="lbl_confirmation">Confirmation</string>
+    <string name="lbl_pay">PAY</string>
+    <string name="lbl_about_nanny">ABOUT NANNY</string>
+    <string name="lbl_available_jobs">Available Jobs</string>
+    <string name="lbl_apply_job">APPLY JOB</string>
+    <string name="lbl_apply_job_small">Apply Job</string>
+    <string name="lbl_write_a_proposal">WRITE A PROPOSAL</string>
+    <string name="action_done">Done</string>
+    <string name="lbl_confirmed">Confirmed</string>
+    <string name="lbl_rejected">Rejected</string>
+    <string name="lbl_pending">Pending</string>
+    <string name="lbl_invite">Invite</string>
+    <string name="lbl_timer">Timer</string>
+    <string name="lbl_schedule">Schedule</string>
+    <string name="lbl_all">All</string>
+    <string name="lbl_start_timer">Start Timer</string>
+    <string name="lbl_estimated_budget">Estimated Budget</string>
+    <string name="lbl_start_time">Start Time</string>
+    <string name="lbl_end_time">End Time</string>
+    <string name="lbl_budget">Budget</string>
+    <string name="lbl_details">Details</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="pick_dialog_title">Select photo from</string>
+    <string name="lbl_age_all">Age</string>
+    <string name="lbl_dashboard">Dashboard</string>
+    <string name="lbl_reviews">Reviews</string>
+    <string name="lbl_write_review">Write Review</string>
+    <string name="lbl_about">About</string>
+    <string name="lbl_media">Media</string>
+    <string name="lbl_personal_info">Personal Information</string>
+    <string name="lbl_full_name">Full Name</string>
+    <string name="lbl_completed">Completed</string>
+    <string name="lbl_incomplete">Incompleted</string>
+    <string name="lbl_cancel">Canceled</string>
+    <string name="lbl_unassigned">Unassigned</string>
+    <string name="lbl_assigned">Assigned</string>
+
+
+    <!--Multiple Images-->
+    <string name="album_view">Select photo album</string>
+    <string name="image_view">Tap to select images</string>
+    <string name="add">ADD</string>
+    <string name="selected">selected</string>
+    <string name="limit_exceeded">Can select a maximum of %d images</string>
+    <string name="permission_denied_albums">Allow access to photos, media and files on your device to view albums</string>
+    <string name="permission_denied_images">Allow access to photos, media and files on your device to view images</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="error_null_cursor">Oops, something went wrong!</string>
+    <string name="lbl_play_video">Play Video</string>
+    <string name="lbl_pay_now">PAY NOW</string>
+    <string name="action_skip">Skip</string>
+    <string name="lbl_highest_amount">Highest Amount</string>
+    <string name="lbl_lowest_amount">Lowest Amount</string>
+    <string name="lbl_longest">Longest Distance</string>
+    <string name="lbl_nearest">Nearest Distance</string>
+    <string name="lbl_filter">Filter</string>
+    <string name="lbl_stores">Stores</string>
+    <string name="lbl_areas">Areas</string>
+    <string name="lbl_history">History</string>
+    <string name="lbl_bulletin">Bulletin</string>
+    <string name="lbl_view_all">View All</string>
+    <string name="lbl_store_detail">Store Detail</string>
+    <string name="lbl_hire_now">HIRE NOW</string>
+    <string name="lbl_check_in">CHECK IN</string>
+    <string name="message_no_detail_found">No detail found</string>
+    <string name="message_invalid_id">Invalid id.</string>
+    <string name="lbl_per_additional_child">Per Additional Child</string>
+    <string name="lbl_per_hour">Per Hour</string>
+    <string name="action_keep_login">Keep login</string>
+    <string name="lbl_choose_time">Select duration</string>
+    <string name="lbl_choose_date">Select date</string>
+    <string name="hint_enter_no_kids">Enter Number of kids.</string>
+    <string name="invalid_nanny">Invalid Nanny.</string>
+    <string name="invalid_time">Invalid time duration.</string>
+    <string name="invalid_date">Invalid date.</string>
+    <string name="error_enter_number_of_kids">Enter number of kids.</string>
+    <string name="toast_task_cancelled">Task has been cancelled.</string>
+
+    <string name="facebook_app_id">517414398453554</string>
+    <string name="fb_login_protocol_scheme">fb517414398453554</string>
+    <string name="lbl_change_language">Change Language</string>
+    <string name="lbl_change_password">Change Password</string>
+    <string name="lbl_account_settings">Account Settings</string>
+    <string name="lbl_notification_settings">Notification Settings</string>
+
+    <string name="language_dialog_title">Select Language</string>
+    <string name="toast_press_again_to_exit">Click again to exit.</string>
+    <string name="error_enter_address">Please enter address.</string>
+    <string name="error_enter_about">Please write something about you.</string>
+    <string name="lbl_reset">Reset</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="error_enter_old_password">Please enter old password.</string>
+    <string name="error_enter_new_password">Please enter new password.</string>
+    <string name="lbl_please_wait">Please wait...</string>
+    <string name="lbl_number_of_child">No. of child</string>
+    <string name="lbl_regular_charges">Regular Charges</string>
+    <string name="lbl_additional_child_charges">Additional Child Charges</string>
+    <string name="hint_gender">Gender</string>
+    <string name="lbl_enter_phone_number">Phone Number</string>
+    <string name="lbl_signingup_as">you are signing up as...</string>
+    <string name="label_child_limit">Child limit: </string>
+    <string name="lbl_choose_payment_method">Please choose payment method.</string>
+    <string name="action_edit">Edit</string>
+    <string name="hint_select_area">Select area</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_address">Address</string>
+    <string name="lbl_availability">Availability</string>
+    <string name="hint_rate_per_hour">Rate per hour</string>
+    <string name="hint_extra_time_rate_per_hour">Extra time rate per hour</string>
+    <string name="hint_additional_child_rate">Additional child rate per hour</string>
+    <string name="hint_child_limit">Child limit</string>
+    <string name="lbl_edit_profile">Edit profile</string>
+    <string name="lbl_choose_image_source">Please choose the source of image.</string>
+    <string name="message_enter_rate_per_hour">Please enter rate per hour.</string>
+    <string name="error_required_field">Required field</string>
+    <string name="error_select_business_hours">Select your business hour.</string>
+    <string name="error_select_area">Please select area.</string>
+    <string-array name="language_array">
+        <item>English</item>
+        <item>简体中文</item>
+        ////simplified chinese
+        <item>繁体中文</item>
+        ////traditional chinese
+    </string-array>
+
+</resources>
